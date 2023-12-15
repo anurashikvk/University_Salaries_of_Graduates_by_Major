@@ -54,6 +54,6 @@ Future updates to this project may include the following enhancements:
 
 ## About the Author
 
-This data analysis project was conducted by [Your Name]. As an enthusiastic data analyst, I am passionate about uncovering insights from complex datasets and making data-driven decisions.
+This data analysis project was conducted by Muhammed Anu Rashik vk. As an enthusiastic data analyst, I am passionate about uncovering insights from complex datasets and making data-driven decisions.
 
-Feel free to reach out to me at [Your Email Address] for any questions or collaborations related to this project.
+Feel free to reach out to me at muhammedanurashikvk@gmail.com for any questions or collaborations related to this project.
